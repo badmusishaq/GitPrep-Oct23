@@ -1,1 +1,5 @@
 New Doc in the DIR folder.
+
+----------------------
+
+Second doc updated.
